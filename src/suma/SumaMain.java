@@ -14,9 +14,9 @@ import java.util.Scanner;
 public class SumaMain {
     public static void main(String args[]){
         Scanner entrada=new Scanner(System.in);
-        System.out.println("Ingresa el 1ER VALOR: ");
+        System.out.println("Ingresa el VALOR 1: ");
         int valorUno=entrada.nextInt();
-        System.out.println("Ingresa el 2DO VALOR: ");
+        System.out.println("Ingresa el VALOR 2: ");
         int valorDos=entrada.nextInt();
         
         Suma valores=new Suma(valorUno,valorDos);
