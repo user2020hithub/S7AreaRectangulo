@@ -20,6 +20,6 @@ public class SumaMain {
         int valorDos=entrada.nextInt();
         
         Suma valores=new Suma(valorUno,valorDos);
-        valores.Imprimir();;
+        valores.Imprimir();
     }
 }
