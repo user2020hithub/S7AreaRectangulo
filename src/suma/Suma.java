@@ -24,6 +24,6 @@ public class Suma {
     
     public void Imprimir(){
         Operacion();
-        System.out.println("El resultado de la operación Suma es: " + resultado);
+        System.out.println("El resultado de la operación SUMA es: " + resultado);
     }
 }
